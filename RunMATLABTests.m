@@ -12,6 +12,6 @@ classdef RunMATLABTests < matlab.unittest.testcase
        
    end
    
-   %dummy change 1
+   %dummy change 2
     
 end
